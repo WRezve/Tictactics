@@ -10,6 +10,6 @@ Functional Requirements:
 - Each player's goal is to place three of their symbols in a row.
 - Each player will try to prevent the other from winning by blocking two symbols of their opponents with their own.
 - If all the symbols have been placed and there is no winner, another game starts with an empty board.
-- 
+- Game will keep re
 - After there is a winner, a scoreboard will appear on the side of the screen showing each player's points.
 -
