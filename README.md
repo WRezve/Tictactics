@@ -6,5 +6,7 @@ Our project is to create a game of Tic-Tac-Toe. Players will select places on th
 **Features**
 
 2 players game.
+
 One person is X, one person is O. Players take turns putting their marks in empty squares.
+
 Whoever succeeds in placing three marks on a line wins.
