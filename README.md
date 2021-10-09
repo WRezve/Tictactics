@@ -1,4 +1,7 @@
 # Tictactics
+**Team Name:** MWL
+**Group Members:** Dylan McLaughlin, Rezve Wohab, Vy Le
+
 **Objective**
 
 This project is contributed to EECS1012. It is a computer program about Tic Tac Toe game developed with 3 members McLaughin, Wohab, and Le.
