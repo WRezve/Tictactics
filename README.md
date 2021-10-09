@@ -1,5 +1,6 @@
 # Tictactics
 **Team Name:** MWL
+
 **Group Members:** Dylan McLaughlin, Rezve Wohab, Vy Le
 
 **Objective**
