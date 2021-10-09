@@ -11,4 +11,4 @@ Functional Requirements:
 - Each player will try to prevent the other from winning by blocking two symbols of their opponents with their own.
 - 
 - After there is a winner, a scoreboard will appear on the side of the screen showing each player's points.
-- After the player or the computer has woman two games, a message will appear showing the winner, and the program will end.
+- After the player or the computer has won two games, a message will appear showing the winner, and the program will end.
