@@ -10,3 +10,10 @@ Our project is to create a game of Tic-Tac-Toe. Players will select places on th
 One person is X, one person is O. Players take turns putting their marks in empty squares.
 
 Whoever succeeds in placing three marks on a line wins.
+
+
+Functional Requirements:
+- User will pleace one of nine spaces on checkerboard with their symbol (which is X).
+- Program will pick the next space to place it's symbol (which is O).
+-
+- After there is a winner, a scoreboard will appear on the side of the screen showing each player's points.
