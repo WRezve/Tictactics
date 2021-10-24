@@ -28,3 +28,4 @@ Functional Requirements:
 - After there is a winner, a scoreboard will appear on the side of the screen showing each player's points.
 - If the player wins, a message appears saying "You Win!" with confetti and fireworks animations along with a victory song.
 - If the player loses, a message appears saying "You Lose!" with an animation of a clown laughing and a sad trombone song.
+- Final screen says "GAME OVER" and has a button displaying "PLAY AGAIN", if user wishes to play again.
