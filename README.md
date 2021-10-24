@@ -14,8 +14,8 @@ Our project is to create a game of Tic-Tac-Toe. Players will select places on th
 
 Functional Requirements:
 - User will press a button that displays the message, "START GAME".
-- Rules on how to play TicTacToe will be displayed above the checkerboard.
-- User will pleace one of nine spaces on checkerboard with their symbol (which is X).
+- Rules on how to play TicTacToe will be displayed, user will press a button that displays "PLAY" to begin.
+- User will place one of nine spaces on checkerboard with their symbol (which is X).
 - Turn ends with placing a symbol on the checkerboard.
 - Program will pick the next space to place it's symbol (which is O).
 - Each player's goal is to place three of their symbols in a row.
